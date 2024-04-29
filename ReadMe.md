@@ -266,7 +266,8 @@ Star this repo if you find it useful ⭐
 
 ## 📚Chapter: 3  - **Resources**
    -  [**German Traffic Sign Classification**](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/German%20Traffic%20Sign%20Classification)
-   -  [**3XFake AI Technology: AI, ML, ANNs, Generative AI, LLMs, GPT-5, AGI**](https://www.linkedin.com/pulse/3xfake-technology-ai-anns-generative-llms-gpt-5-agi-azamat-abdoullaev-pbq6f/?fbclid=IwAR1ey2lh8VwC-uh7DTpyqLN3b6mApJF94udSbRq0IPT9KdsXmyFuZNzEqXs_aem_AahJbqC_2_s8m_QppuzUw6CJgneZCNRhHkJBv99BKHgpLOR9m3Prt698gqtUQ24zghC_D6jVcCnk8dTm3jOA3lro)
+   -  [**Optimizing multi-agent based urban traffic signal
+control system**](https://www.tandfonline.com/doi/full/10.1080/15472450.2018.1501273)
    -  [**Spam Detection using Machine Learning Methods**](https://medium.com/@Coursesteach/spam-detection-using-machine-learning-methods-dd5dbc799b6b)
    - [**Top AI Agents**](https://github.com/SamurAIGPT/Best-AI-Agents)
 </details>
